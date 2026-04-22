@@ -8,11 +8,17 @@ non. On va donc ici, implémenter différents algorithmes de parcours afin de le
 
 # Structure du Projet :
 src/ : code source Java
+
 • App.java : point d’entrée du programme (Main)
+
 • LireFichier.java : lecture du fichier d’instance et traitement
+
 • Problème.java : logique du problème et algorithmes de recherche
+
 • Etat.java : représentation d’un état (configuration des seaux)
+
 • Open.java : gestion des états à explorer
+
 Instances/ : fichiers d’instances de problèmes au format .buck
 
 # Execution et Compilation :

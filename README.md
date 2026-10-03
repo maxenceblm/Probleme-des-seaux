@@ -2,7 +2,7 @@
 
 # Introduction : 
 
-Ce programme résout automatiquement des problèmes de type « seaux » en Java. Il lit une instance de
+Ce projet par approche d'intelligence artificielle symbolique consiste à résoudre automatiquement des problèmes de type « seaux » en Java. On lit une instance du
 problème, modélise les états nécessaires ou possibles et recherche si une solution est possible ou
 non. On va donc ici, implémenter différents algorithmes de parcours afin de les comparer entre eux .
 
